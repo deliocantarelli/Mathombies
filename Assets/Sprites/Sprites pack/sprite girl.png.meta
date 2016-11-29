@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 40413e30a63394fde9949a23c0dadf04
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite girl_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 405
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 543
+        width: 473
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_2
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 543
+        width: 777
+        height: 1057
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_3
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 514
+        width: 570
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 535
+        width: 342
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_5
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 501
+        width: 794
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite girl_6
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 514
+        width: 601
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

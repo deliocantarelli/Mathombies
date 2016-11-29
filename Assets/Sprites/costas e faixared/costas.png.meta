@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: 62447eab91bfc487fa7bf12256946247
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: costas_0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 318
+        width: 385
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: costas_1
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 301
+        width: 384
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: costas_2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 225
+        width: 350
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: costas_3
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 177
+        width: 551
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

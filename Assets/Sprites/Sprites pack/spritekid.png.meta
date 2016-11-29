@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 28a0ed4b2ce9040ca9110a1e832461e2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritekid_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 291
+        width: 342
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 296
+        width: 385
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 276
+        width: 586
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 276
+        width: 440
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_4
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 271
+        width: 366
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_5
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 291
+        width: 630
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: spritekid_6
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 296
+        width: 493
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
